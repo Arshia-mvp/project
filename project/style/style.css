@@ -1,0 +1,122 @@
+body{
+    background-color: darkblue;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card--li{
+    display: block;
+    position: absolute;
+    transform: translate(400px,15px);
+    color: white;
+}
+.card--li:hover{
+    color: yellow;
+}
+.card-1--li{
+    display: block;
+    position: absolute;
+    transform: translate(470px,15px);
+    color: white;
+}
+.card-1--li:hover{
+    color: green;
+}
+.card-2--li{
+    display: block;
+    position: absolute;
+    transform: translate(540px,15px);
+    color: white;
+}
+.card-2--li:hover{
+    color: green;
+}
+.card-3--li{
+    display: block;
+    position: absolute;
+    transform: translate(615px,15px);
+    color: white;
+}
+.card-3--li:hover{
+    color: green;
+}
+.card-4--li{
+    display: block;
+    position: absolute;
+    transform: translate(710px,15px);
+    color: white;
+}
+.card-4--li:hover{
+    color: green;
+}
+.card-5--li{
+    display: block;
+    position: absolute;
+    transform: translate(800px,15px);
+    color: white;
+}
+.card-5--li:hover{
+    color: green;
+}
+.card--title{
+    color: rgba(255, 255, 255, 0.74);
+    position: absolute;
+    transform: translate(150px,170px);
+    font-size: 60px;
+}
+.card--description{
+    color: white;
+    position: absolute;
+    transform: translate(150px,400px);
+}
+.card--image{
+    width: 530px;
+    height: 400px;
+    position: absolute;
+    transform: translate(770px,130px);
+    border-radius: 20px;
+}
+.button{
+    width: 150px;
+    height: 40px;
+    background-color: blue;
+    position: absolute;
+    transform: translate(150px,500px);
+    border-radius: 20px
+}
+.span{
+    color: white;
+    position: absolute;
+    transform: translate(171px,506px);
+    font-size: 20px;
+}
+.button-1{
+    width: 150px;
+    height: 40px;
+    background-color: orange;
+    position: absolute;
+    transform: translate(325px,498px);
+    border-radius: 20px;
+}
+.p{
+    color: white;
+    position: absolute;
+    transform: translate(347px,504px);
+    font-size: 22px;
+}
+.button-2{
+    width: 150px;
+    height: 40px;
+    background-color: blue;
+    position: absolute;
+    transform: translate(950px,12px);
+    border-radius: 20px;
+}
+.p-1{
+    color: white;
+    position: absolute;
+    transform: translate(985px,18px);
+    font-size: 20px;
+}
